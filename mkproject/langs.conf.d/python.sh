@@ -1,5 +1,6 @@
 #!/bin/bash
 #Title: python.sh
+#Author: sneed
 #Purpose: project initialization for python projects
 #Note: define the environment variable PYTHON_DIR if you want the python projects initialized in a set directory instead of current directory
 #Also define VIRTUALENV_PATH for creation of virtual environments
