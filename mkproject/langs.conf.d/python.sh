@@ -29,10 +29,10 @@ if [[ $lang == "python" ]]; then
 
 	# Populate main.py file
 	echo "#!/bin/python3" > src/main.py
-	echo "Title: $project_name" >> src/main.py
-	echo "Purpose: " >> src/main.py
-	echo "Date: $(date +%D)" >> src/main.py
-	echo "Author: ${USERNAME}" >> src/main.py
+	echo "#Title: $project_name" >> src/main.py
+	echo "#Purpose: " >> src/main.py
+	echo "#Date: $(date +%D)" >> src/main.py
+	echo "#Author: ${USERNAME}" >> src/main.py
 	echo >> src/main.py
 	echo "print(\"Hello World!\")" >> src/main.py
 
