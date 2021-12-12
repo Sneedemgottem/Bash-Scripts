@@ -1,0 +1,1 @@
+Bash automation scripts for my computer. I write these with as much cross compatibility as possible across linux systems. These scripts have notes at the top of them with simple instructions such as what environmental variables to set. These scripts use the bash interpretor (/usr/bin/bash).
